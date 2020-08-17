@@ -1,4 +1,4 @@
-FROM node:8.11.2
+FROM node:10.22.0
 
 MAINTAINER hpcherry <hpcherry@outlook.com>
 
